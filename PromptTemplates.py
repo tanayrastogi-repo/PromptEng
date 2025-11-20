@@ -224,14 +224,14 @@ def _(chat_model):
         prompts=[
             """
         Here is an example of extracting keywords from a sentence:
-    
+
         Sentence: "Cloud computing offers businesses flexibility, scalability, and cost-efficiency for their IT infrastructure needs."
         Keywords: cloud computing, flexibility, scalability, cost-efficiency, IT infrastructure. 
 
-    
+
         ---
         Now, please extract the main keywords from the following sentence:
-    
+
         Sentence: "Sustainable agriculture practices focus on biodiversity, soil health, water conservation, and reducing chemical inputs."
         Keywords:
         """
@@ -269,13 +269,13 @@ def _(chat_model):
 
     Statement: 'I just won my first marathon!'
     Emotion: Joy
-            
+
     Statement: 'I can't believe I lost my keys again.'
     Emotion: Frustration
-            
+
     Statement: 'My best friend is moving to another country.'
     Emotion: Sadness
-            
+
 
     Now, classify the emotion in the following statement:
     Statement: 'That movie was so scary I had to cover my eyes.’

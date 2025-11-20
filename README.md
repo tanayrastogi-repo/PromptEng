@@ -1,6 +1,8 @@
 
 # Prompt Engineering
 
+[![Open in molab](https://marimo.io/molab-shield.svg)](https://molab.marimo.io/github/tanayrastogi-repo/PromptEng/blob/main/PromptTemplates.py)
+
 Interactive Marimo app demonstrating foundational and advanced prompt-engineering techniques—zero-shot, one-shot, few-shot, and self-consistency. The lab follows the IBM's Skill build course [Develop Generative AI Applications: Get Started](https://www.coursera.org/learn/develop-generative-ai-applications-get-started?specialization=ibm-rag-and-agentic-ai). 
 
 The notebook uses OpenRouter’s free GPT-OSS model in place of IBM Watson and is useful for anyone experimenting with prompt design patterns.
